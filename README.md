@@ -17,6 +17,10 @@
 </ul>
 
 <h3>🖼️ Screenshot</h3>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/aec750ff-a0fe-4bf3-927d-bef9ca2b5e0c" />
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/890f9e4a-4bcf-46d7-ba9d-97830805ddb3" />
+
+
 
 <!-- Replace the path with your actual image -->
 <img src="screenshots/nginx-routing.png" alt="Nginx Proxy Working" width="600"/>
@@ -42,9 +46,17 @@ cd devops-nginx-proxy
 
 <ul>
   <li><a href="http://localhost:8080/service1/ping" target="_blank">http://localhost:8080/service1/ping</a></li>
+  <img width="728" alt="image" src="https://github.com/user-attachments/assets/70d0bbce-4a2c-4972-96c7-9d8ee53222cf" />
+
   <li><a href="http://localhost:8080/service1/hello" target="_blank">http://localhost:8080/service1/hello</a></li>
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/d1f83843-709a-416d-942b-6bb3f0fd7f3a" />
+
   <li><a href="http://localhost:8080/service2/ping" target="_blank">http://localhost:8080/service2/ping</a></li>
+  <img width="729" alt="image" src="https://github.com/user-attachments/assets/98d78e0a-1420-4537-8cac-a94fcf6fc101" />
+
   <li><a href="http://localhost:8080/service2/hello" target="_blank">http://localhost:8080/service2/hello</a></li>
+  <img width="728" alt="image" src="https://github.com/user-attachments/assets/60701ab8-d433-4e7e-a2d3-e10b8d84482c" />
+
 </ul>
 
 <hr>
